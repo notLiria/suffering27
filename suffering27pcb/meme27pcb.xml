@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Liria\Programming\keyboards\meme27\meme27pcb\meme27pcb.sch</source>
+    <date>2021-01-23 12:23:35 AM</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>meme27pcb.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601068CE</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60107210</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60107605</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60107797</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601079AD</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601087F5</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60108C10</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60108EE2</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601090DC</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601095C5</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010969D</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010B2EE</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010B741</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010C32F</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010C889</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010CF61</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010D587</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010E555</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010F7C1</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010FD9E</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E85E</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E864</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E86A</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E870</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E876</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E87C</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6011E882</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C09</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C0F</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C15</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C1B</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C21</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C27</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60121C2D</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60122A54</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60123968</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601243EE</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601253F8</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EBF5</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EBFB</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC01</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC07</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC0D</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC17</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC1D</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC23</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC29</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC2F</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC35</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC3B</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC5B</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>kbd:CherryMX_Hotswap</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60178051</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60178057</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>kbd:ProMicro_v3</footprint>
+      <libsource lib="KB" part="ProMicro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601801E4</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>kbd:ResetSW_1side</footprint>
+      <libsource lib="KB" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6019476B</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CE2F3</tstamp>
+    </comp>
+    <comp ref="LED3">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CE949</tstamp>
+    </comp>
+    <comp ref="LED7">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CEB2E</tstamp>
+    </comp>
+    <comp ref="LED11">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CEE32</tstamp>
+    </comp>
+    <comp ref="LED15">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CEFF5</tstamp>
+    </comp>
+    <comp ref="LED19">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CF240</tstamp>
+    </comp>
+    <comp ref="LED23">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CF4C7</tstamp>
+    </comp>
+    <comp ref="LED26">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CF5E1</tstamp>
+    </comp>
+    <comp ref="LED30">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CF768</tstamp>
+    </comp>
+    <comp ref="LED34">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CF9DB</tstamp>
+    </comp>
+    <comp ref="LED35">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CFE79</tstamp>
+    </comp>
+    <comp ref="LED31">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D08A6</tstamp>
+    </comp>
+    <comp ref="LED27">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D0998</tstamp>
+    </comp>
+    <comp ref="LED24">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D0CA1</tstamp>
+    </comp>
+    <comp ref="LED20">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D0E51</tstamp>
+    </comp>
+    <comp ref="LED16">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D1015</tstamp>
+    </comp>
+    <comp ref="LED12">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D126F</tstamp>
+    </comp>
+    <comp ref="LED8">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D14D7</tstamp>
+    </comp>
+    <comp ref="LED4">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D1777</tstamp>
+    </comp>
+    <comp ref="LED9">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D2490</tstamp>
+    </comp>
+    <comp ref="LED13">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D2591</tstamp>
+    </comp>
+    <comp ref="LED17">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D2958</tstamp>
+    </comp>
+    <comp ref="LED21">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D2B53</tstamp>
+    </comp>
+    <comp ref="LED25">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D2CE9</tstamp>
+    </comp>
+    <comp ref="LED32">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D8219</tstamp>
+    </comp>
+    <comp ref="LED5">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601D213C</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>1N4148</value>
+      <footprint>kbd:D3_SMD_v2</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6015EC4F</tstamp>
+    </comp>
+    <comp ref="LED36">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>kbd:YS-SK6812MINI-E</footprint>
+      <libsource lib="KB" part="YS-SK6812MINI-E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>604BE73E</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C6CE1</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C9C1A</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CA678</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CA8BA</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CACD1</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CB244</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CB6B8</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CB979</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>SK6812</value>
+      <footprint>kbd:LED_WS2812B-PLCC4</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605CBC09</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Diode" part="1N4148">
+      <aliases>
+        <alias>1N4448</alias>
+        <alias>1N4149</alias>
+        <alias>1N4151</alias>
+        <alias>1N914</alias>
+        <alias>BA243</alias>
+        <alias>BA244</alias>
+        <alias>BA282</alias>
+        <alias>BA283</alias>
+        <alias>BAV17</alias>
+        <alias>BAV18</alias>
+        <alias>BAV19</alias>
+        <alias>BAV20</alias>
+        <alias>BAV21</alias>
+        <alias>BAW75</alias>
+        <alias>BAW76</alias>
+        <alias>BAY93</alias>
+      </aliases>
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KB" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX0/D3" type="BiDi"/>
+        <pin num="2" name="RX1/D2" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="2/D1/SDA" type="BiDi"/>
+        <pin num="6" name="3/D0/SCL" type="BiDi"/>
+        <pin num="7" name="4/D4" type="BiDi"/>
+        <pin num="8" name="5/C6" type="BiDi"/>
+        <pin num="9" name="6/D7" type="BiDi"/>
+        <pin num="10" name="7/E6" type="BiDi"/>
+        <pin num="11" name="8/B4" type="BiDi"/>
+        <pin num="12" name="9/B5" type="BiDi"/>
+        <pin num="13" name="B6/10" type="BiDi"/>
+        <pin num="14" name="B2/16" type="BiDi"/>
+        <pin num="15" name="B3/14" type="BiDi"/>
+        <pin num="16" name="B1/15" type="BiDi"/>
+        <pin num="17" name="F7/A0" type="BiDi"/>
+        <pin num="18" name="F6/A1" type="BiDi"/>
+        <pin num="19" name="F5/A2" type="BiDi"/>
+        <pin num="20" name="F4/A3" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="KB" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KB" part="YS-SK6812MINI-E">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">YS-SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="SK6812">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</docs>
+      <footprints>
+        <fp>LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812</field>
+        <field name="Footprint">LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="KB">
+      <uri>C:/Users/Liria/Programming/keyboards/kbd/kicad-symbols/kbd.lib</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\share\kicad\library/LED.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(LED13-Pad2)">
+      <node ref="LED17" pin="4"/>
+      <node ref="LED13" pin="2"/>
+    </net>
+    <net code="2" name="Net-(LED24-Pad4)">
+      <node ref="LED27" pin="2"/>
+      <node ref="LED24" pin="4"/>
+    </net>
+    <net code="3" name="Net-(LED20-Pad4)">
+      <node ref="LED20" pin="4"/>
+      <node ref="LED24" pin="2"/>
+    </net>
+    <net code="4" name="Net-(LED16-Pad4)">
+      <node ref="LED16" pin="4"/>
+      <node ref="LED20" pin="2"/>
+    </net>
+    <net code="5" name="Net-(LED12-Pad4)">
+      <node ref="LED12" pin="4"/>
+      <node ref="LED16" pin="2"/>
+    </net>
+    <net code="6" name="Net-(LED12-Pad2)">
+      <node ref="LED8" pin="4"/>
+      <node ref="LED12" pin="2"/>
+    </net>
+    <net code="7" name="Net-(LED4-Pad4)">
+      <node ref="LED8" pin="2"/>
+      <node ref="LED4" pin="4"/>
+    </net>
+    <net code="8" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2"/>
+      <node ref="LED5" pin="4"/>
+    </net>
+    <net code="9" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2"/>
+      <node ref="LED9" pin="4"/>
+    </net>
+    <net code="10" name="Net-(LED13-Pad4)">
+      <node ref="LED13" pin="4"/>
+      <node ref="LED9" pin="2"/>
+    </net>
+    <net code="11" name="Net-(LED17-Pad2)">
+      <node ref="LED21" pin="4"/>
+      <node ref="LED17" pin="2"/>
+    </net>
+    <net code="12" name="Net-(LED21-Pad2)">
+      <node ref="LED21" pin="2"/>
+      <node ref="LED25" pin="4"/>
+    </net>
+    <net code="13" name="Net-(LED27-Pad4)">
+      <node ref="LED31" pin="2"/>
+      <node ref="LED27" pin="4"/>
+    </net>
+    <net code="14" name="Net-(LED26-Pad2)">
+      <node ref="LED26" pin="2"/>
+      <node ref="LED30" pin="4"/>
+    </net>
+    <net code="15" name="Net-(LED34-Pad2)">
+      <node ref="LED35" pin="4"/>
+      <node ref="LED34" pin="2"/>
+    </net>
+    <net code="16" name="Net-(LED30-Pad2)">
+      <node ref="LED34" pin="4"/>
+      <node ref="LED30" pin="2"/>
+    </net>
+    <net code="17" name="Net-(LED31-Pad4)">
+      <node ref="LED35" pin="2"/>
+      <node ref="LED31" pin="4"/>
+    </net>
+    <net code="18" name="Net-(LED3-Pad2)">
+      <node ref="LED7" pin="4"/>
+      <node ref="LED3" pin="2"/>
+    </net>
+    <net code="19" name="Net-(LED25-Pad2)">
+      <node ref="LED25" pin="2"/>
+      <node ref="LED32" pin="4"/>
+    </net>
+    <net code="20" name="Net-(LED1-Pad2)">
+      <node ref="LED3" pin="4"/>
+      <node ref="LED1" pin="2"/>
+    </net>
+    <net code="21" name="Net-(LED11-Pad4)">
+      <node ref="LED11" pin="4"/>
+      <node ref="LED7" pin="2"/>
+    </net>
+    <net code="22" name="Net-(LED11-Pad2)">
+      <node ref="LED15" pin="4"/>
+      <node ref="LED11" pin="2"/>
+    </net>
+    <net code="23" name="Net-(LED15-Pad2)">
+      <node ref="LED15" pin="2"/>
+      <node ref="LED19" pin="4"/>
+    </net>
+    <net code="24" name="Net-(LED19-Pad2)">
+      <node ref="LED23" pin="4"/>
+      <node ref="LED19" pin="2"/>
+    </net>
+    <net code="25" name="Net-(LED23-Pad2)">
+      <node ref="LED26" pin="4"/>
+      <node ref="LED23" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D30-Pad4)">
+      <node ref="D31" pin="2"/>
+      <node ref="D30" pin="4"/>
+    </net>
+    <net code="27" name="Net-(D29-Pad4)">
+      <node ref="D30" pin="2"/>
+      <node ref="D29" pin="4"/>
+    </net>
+    <net code="28" name="Net-(D31-Pad4)">
+      <node ref="D31" pin="4"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="29" name="led">
+      <node ref="D26" pin="2"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="30" name="Net-(D32-Pad4)">
+      <node ref="D32" pin="4"/>
+      <node ref="D33" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D26-Pad4)">
+      <node ref="D26" pin="4"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D34-Pad4)">
+      <node ref="D34" pin="4"/>
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D35-Pad4)">
+      <node ref="D36" pin="2"/>
+      <node ref="D35" pin="4"/>
+    </net>
+    <net code="34" name="Net-(D36-Pad4)">
+      <node ref="LED1" pin="4"/>
+      <node ref="D36" pin="4"/>
+    </net>
+    <net code="35" name="Net-(D33-Pad4)">
+      <node ref="D33" pin="4"/>
+      <node ref="D34" pin="2"/>
+    </net>
+    <net code="36" name="Net-(LED36-Pad2)">
+      <node ref="LED36" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D24-Pad2)">
+      <node ref="SW24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="38" name="GND">
+      <node ref="D31" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="LED36" pin="3"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="LED15" pin="3"/>
+      <node ref="LED19" pin="3"/>
+      <node ref="LED7" pin="3"/>
+      <node ref="LED3" pin="3"/>
+      <node ref="LED1" pin="3"/>
+      <node ref="SW29" pin="2"/>
+      <node ref="LED26" pin="3"/>
+      <node ref="LED23" pin="3"/>
+      <node ref="LED35" pin="3"/>
+      <node ref="LED17" pin="3"/>
+      <node ref="LED32" pin="3"/>
+      <node ref="LED24" pin="3"/>
+      <node ref="LED25" pin="3"/>
+      <node ref="LED13" pin="3"/>
+      <node ref="LED21" pin="3"/>
+      <node ref="D30" pin="1"/>
+      <node ref="LED27" pin="3"/>
+      <node ref="LED31" pin="3"/>
+      <node ref="LED4" pin="3"/>
+      <node ref="U1" pin="23"/>
+      <node ref="LED5" pin="3"/>
+      <node ref="LED34" pin="3"/>
+      <node ref="LED20" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="LED30" pin="3"/>
+      <node ref="U1" pin="4"/>
+      <node ref="LED8" pin="3"/>
+      <node ref="LED12" pin="3"/>
+      <node ref="LED9" pin="3"/>
+      <node ref="LED16" pin="3"/>
+      <node ref="LED11" pin="3"/>
+    </net>
+    <net code="39" name="Net-(LED32-Pad2)">
+      <node ref="LED32" pin="2"/>
+      <node ref="LED36" pin="4"/>
+    </net>
+    <net code="40" name="VCC">
+      <node ref="LED23" pin="1"/>
+      <node ref="LED7" pin="1"/>
+      <node ref="LED5" pin="1"/>
+      <node ref="LED11" pin="1"/>
+      <node ref="U1" pin="21"/>
+      <node ref="LED15" pin="1"/>
+      <node ref="LED19" pin="1"/>
+      <node ref="LED36" pin="1"/>
+      <node ref="LED26" pin="1"/>
+      <node ref="LED30" pin="1"/>
+      <node ref="LED3" pin="1"/>
+      <node ref="LED1" pin="1"/>
+      <node ref="LED24" pin="1"/>
+      <node ref="LED32" pin="1"/>
+      <node ref="LED25" pin="1"/>
+      <node ref="LED9" pin="1"/>
+      <node ref="LED13" pin="1"/>
+      <node ref="LED17" pin="1"/>
+      <node ref="LED27" pin="1"/>
+      <node ref="LED20" pin="1"/>
+      <node ref="LED16" pin="1"/>
+      <node ref="LED12" pin="1"/>
+      <node ref="LED8" pin="1"/>
+      <node ref="LED4" pin="1"/>
+      <node ref="LED34" pin="1"/>
+      <node ref="LED35" pin="1"/>
+      <node ref="LED31" pin="1"/>
+      <node ref="D35" pin="3"/>
+      <node ref="D36" pin="3"/>
+      <node ref="D34" pin="3"/>
+      <node ref="D33" pin="3"/>
+      <node ref="D32" pin="3"/>
+      <node ref="D31" pin="3"/>
+      <node ref="D30" pin="3"/>
+      <node ref="LED21" pin="1"/>
+      <node ref="D26" pin="3"/>
+      <node ref="D29" pin="3"/>
+    </net>
+    <net code="41" name="Net-(D13-Pad2)">
+      <node ref="SW13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="42" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="SW7" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D23-Pad2)">
+      <node ref="SW23" pin="2"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D4-Pad2)">
+      <node ref="SW4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="47" name="col0">
+      <node ref="SW1" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="48" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D1-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="SW3" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D6-Pad2)">
+      <node ref="SW6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D12-Pad2)">
+      <node ref="SW12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW22" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D27-Pad2)">
+      <node ref="SW27" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D28-Pad2)">
+      <node ref="SW28" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="61" name="col9">
+      <node ref="U1" pin="13"/>
+      <node ref="SW28" pin="1"/>
+    </net>
+    <net code="62" name="col8">
+      <node ref="SW27" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="SW25" pin="1"/>
+    </net>
+    <net code="63" name="row0">
+      <node ref="D9" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D28" pin="1"/>
+    </net>
+    <net code="64" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="65" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="66" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="67" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="68" name="reset">
+      <node ref="SW29" pin="1"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="69" name="row1">
+      <node ref="U1" pin="8"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D25" pin="1"/>
+    </net>
+    <net code="70" name="row2">
+      <node ref="D24" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="71" name="col7">
+      <node ref="U1" pin="15"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW22" pin="1"/>
+    </net>
+    <net code="72" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2"/>
+      <node ref="SW17" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="75" name="col4">
+      <node ref="U1" pin="18"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="76" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="77" name="Net-(D8-Pad2)">
+      <node ref="SW8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="78" name="col1">
+      <node ref="SW5" pin="1"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="U1" pin="12"/>
+      <node ref="SW4" pin="1"/>
+    </net>
+    <net code="79" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="SW5" pin="2"/>
+    </net>
+    <net code="80" name="col2">
+      <node ref="SW8" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="81" name="col3">
+      <node ref="SW9" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="82" name="col5">
+      <node ref="SW18" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW17" pin="1"/>
+    </net>
+    <net code="83" name="col6">
+      <node ref="SW20" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="84" name="row3">
+      <node ref="U1" pin="10"/>
+      <node ref="D18" pin="1"/>
+    </net>
+    <net code="85" name="Net-(D18-Pad2)">
+      <node ref="SW18" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+  </nets>
+</export>
